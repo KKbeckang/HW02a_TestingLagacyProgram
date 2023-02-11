@@ -25,6 +25,7 @@
 | testEquilateralTriangles_02 | 100,100,100 | 'Equilateral'        | 'Equilateral'     | Pass             |
 
 ```
+
 PS C:\Users\Administrator\Downloads\HW02a> & C:/Users/Administrator/AppData/Local/Microsoft/WindowsApps/python3.10.exe c:/Users/Administrator/Downloads/HW02a/TestTriangle-1.py
 =*=*=*= Rongda Kang =*=*=*=
 =*=*=*= Course 2023S-SSW567-WS =*=*=*=
@@ -222,3 +223,22 @@ AssertionError: 'InvalidInput' != 'Scalene'
 Ran 23 tests in 0.003s
 ```
 
+*# -\*- coding: utf-8 -\*-*
+
+*"""*
+
+*Assignment Description: Assignment for Rongda Kang this a edited version of original file* 
+
+*for testing and it is design to classify triangle*
+
+*@author: Rongda Kang*
+
+*Summary: The primary goal of this file is to demonstrate a simple python program and learn*
+
+*How to wirte the unittest in away is well formated*
+
+*I am here to Pledge that all of the assignment is done by myself*
+
+*Detail: I mad a lot of changes*
+
+*"""*
