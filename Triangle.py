@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 14 13:44:00 2016
-Updated Jan 21, 2018
-
-The primary goal of this file is to demonstrate a simple python program to classify triangles
-
-@author: jrr
-@author: rk
+Assignment Description: Assignment for Rongda Kang this a edited version of original file 
+for testing and it is design to classify triangle
+@author: Rongda Kang
+Summary: The primary goal of this file is to demonstrate a simple python program and learn
+How to wirte the unittest in away is well formated
+I am here to Pledge that all of the assignment is done by myself
+Detail: I mad a lot of changes
 """
 
 def classifyTriangle(a,b,c):

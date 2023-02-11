@@ -1,3 +1,26 @@
+*# -\*- coding: utf-8 -\*-*
+
+*"""*
+
+*Assignment Description: Assignment for Rongda Kang this a edited version of original file* 
+
+*for testing and it is design to classify triangle*
+
+*@author: Rongda Kang*
+
+*Summary: The primary goal of this file is to demonstrate a simple python program and learn*
+
+*How to wirte the unittest in away is well formated*
+
+*I am here to Pledge that all of the assignment is done by myself*
+
+*Detail: I mad a lot of changes*
+
+*"""*
+
+
+
+
 | **Test ID**                 | **Input**   | **Expected Results** | **Actual Result** | **Pass or Fail** |
 | :-------------------------- | ----------- | -------------------- | ----------------- | ---------------- |
 | TestInvalidInput_01         | 1,0,3       | InvalidInput         | InvalidInput      | Pass             |
